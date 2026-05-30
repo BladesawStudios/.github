@@ -1,2 +1,1 @@
-# .github
-Team config files.
+# TotK-VSCode Extension
