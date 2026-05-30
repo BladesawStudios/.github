@@ -1,1 +1,1 @@
-## TotK-VSCode Extension
+## TOTK-VSCode Team
