@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/TKVSC-Team/totk-vscode/blob/main/graphics/logo/Logo_FancyShading.png?raw=true" width="300vh">
-  <h1>TKSVSC Team</h1>
+  <h1>TKVSC Team</h1>
   
   <a href="https://discord.gg/vwPnX2uB8s">
     <img src="https://img.shields.io/discord/1508590792149827745?style=for-the-badge&logoColor=5865F2&color=5865F2&labelColor=2A2C33&logo=discord&label=discord" alt="Discord"/>
