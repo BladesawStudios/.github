@@ -5,6 +5,10 @@
   <a href="https://discord.gg/vwPnX2uB8s">
     <img src="https://img.shields.io/discord/1508590792149827745?style=for-the-badge&logoColor=5865F2&color=5865F2&labelColor=2A2C33&logo=discord&label=discord" alt="Discord"/>
   </a> &nbsp;
+
+
+  # Our Projects
+  ## TKVSC
   <a href="https://github.com/TKVSC-Team/totk-vscode/releases/latest">
     <img src="https://img.shields.io/github/v/tag/TKVSC-Team/totk-vscode?style=for-the-badge&logoColor=ffffff&color=C71B42&labelColor=2A2C33&logo=github&label=Version" alt="Latest Release"
   </a> &nbsp;
