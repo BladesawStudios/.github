@@ -1,11 +1,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TKVSC-Team/.github/main/graphics/Bladesaw_Banner_2K.png" width="900vh">
   <h1>Bladesaw Studios</h1>
-  
+
+ 
   <a href="https://discord.gg/vwPnX2uB8s">
     <img src="https://img.shields.io/discord/1508590792149827745?style=for-the-badge&logoColor=5865F2&color=5865F2&labelColor=2A2C33&logo=discord&label=discord" alt="Discord"/>
   </a> &nbsp;
-
+  <br>
+  https://tkvsc.dev/
 
   # Our Projects
   ## TKVSC
@@ -26,6 +28,6 @@ The **T**ears of the **K**ingdom **V**isual **S**tudio **C**ode Extension or **T
 
 <sup></sub>It also pairs well with **TKMM!**</sup></sub>
 
-**TKVSC Website**: https://tkvsc.dev/
+
 
 **TKVSC** GameBanana page: https://gamebanana.com/tools/22893
