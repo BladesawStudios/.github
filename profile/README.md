@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/discord/1508590792149827745?style=for-the-badge&logoColor=5865F2&color=5865F2&labelColor=2A2C33&logo=discord&label=discord" alt="Discord"/>
   </a> &nbsp;
   <br>
-  https://tkvsc.dev/
+  https://bladesaw.dev/
 
   # Our Projects
   ## TKVSC
